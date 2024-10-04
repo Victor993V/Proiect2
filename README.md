@@ -22,5 +22,6 @@
 		</script>
 	</head>
 	<body class="sapUiBody" id="continuous">
+	</Compatible>
 	</body>
 </html>
