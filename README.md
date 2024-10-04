@@ -24,4 +24,6 @@
 	<body class="sapUiBody" id="continuous">
 	</Compatible>
 	</body>
+	</Compatible>
+	</body>
 </html>
